@@ -1,0 +1,6 @@
+{
+  "name": "Nila FieldOps",
+  "description": "Tamil Nadu microfinance field operations platform for GPS-verified centre collection tracking and daily agent field status reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

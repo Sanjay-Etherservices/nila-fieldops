@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for a Tamil Nadu microfinance field operations platform featuring custom Admin and Agent authentication, a local server SQLite database, hierarchical Collection Status GPS check-in/check-out with 100m soft-warning geofencing, Field Status logging (Sourcing, Loan, Training, Collection) without loan amounts, and dynamic management of Locations, Centres (via Google Maps links), and Agents.",
+  "updatedAt":  "2026-11-21T06:45:37.874853418Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
